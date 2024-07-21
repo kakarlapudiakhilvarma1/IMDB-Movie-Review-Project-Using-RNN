@@ -1,8 +1,7 @@
 tensorflow
-pandas 
-numpy 
+pandas
+numpy
 scikit-learn
-tensorboard
 matplotlib
 streamlit==1.24.1
 scikeras
